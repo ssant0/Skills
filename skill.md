@@ -1,6 +1,9 @@
 ---
 name: readme-architect
 description: Generates, improves, fixes, and updates professional README.md files for software projects. Use this skill whenever the user asks to write, create, generate, improve, fix, or update a README.md. Triggers on phrases like "write a README", "create a README for my project", "generate README", "improve my README", "fix the README", "update README", "add a README", "my README is missing X", or any request involving README documentation for a software project. Always use this skill — don't try to wing a README without it.
+metadata:
+    version: "1.0.0"
+    author: ssant0
 ---
 
 # README Architect
