@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "readme-architect": {
+      "source": "ssant0/readme-architect",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "125262c18572e8c0cc76a3ca3b30306586a0c40094ec27a99e9bb9434b91afd2"
+    }
+  }
+}
