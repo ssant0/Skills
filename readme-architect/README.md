@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-npx skills add ssant0/readme-architect
+npx skills add ssant0/Skills --skill readme-architect
 ```
 
 Once installed, the skill is available in any compatible AI coding agent session.
